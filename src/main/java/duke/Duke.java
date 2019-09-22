@@ -8,7 +8,7 @@ public class Duke {
     private static Storage storage;
     private static TaskList tasks;
 
-    
+
 
     /**
      * Constructor for main class to initialise the settings.
